@@ -1,0 +1,9 @@
+duration (sec): 39.093462228775024
+peak memory-usage: 247408640
+pearson correlation: 0.2807689093908822
+duration (sec): 50.69361734390259
+peak memory-usage: 247408640
+pearson correlation: 0.2807689093908822
+duration (sec): 36.95826458930969
+peak memory-usage: 247408640
+pearson correlation: 0.2807689093908822

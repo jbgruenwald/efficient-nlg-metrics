@@ -1,0 +1,1 @@
+This folder contains datasets from other publishers. They are included in this repository to guarantee the functioning of the code in **experiments/**. These datasets were not originally published by us and we do not claim them to be our work. Furthermore we do not take liability for any damages caused by the usage of them.
